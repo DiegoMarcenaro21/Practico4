@@ -1,10 +1,25 @@
-﻿namespace ej_
+﻿using Dominio;
+using Dominio.Entidades;
+using System.Net.Http.Headers;
+using System.Net.NetworkInformation;
+using System.Runtime.CompilerServices;
+
+
+namespace ej_
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
+
+			
+
+
+
+            private static void AgregarCliente()
+
+
         }
     }
 }
